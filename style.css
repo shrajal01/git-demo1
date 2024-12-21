@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+h1 {
+    color: rgba(16, 16, 92, 0.575);
+}
+p {
+    color: gray;
+}
